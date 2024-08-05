@@ -12,7 +12,7 @@
 
 
 ## 🖥️ Projeto
-⤷ Spike é especializado em moderação, com funcionalidades de blacklist, controle de spam e capslock, e geração de logs detalhados. Ambos os bots são projetados para fornecer uma experiência eficiente e organizada aos usuários.
+⤷ Spike é especializado em moderação, com funcionalidades de blacklist, controle de spam e capslock, e geração de logs detalhados. O bot foi projetado para fornecer uma experiência eficiente e organizada aos usuários.
 
 
 <div style="text-align:center;">
@@ -23,6 +23,13 @@
         <img src="https://img.shields.io/badge/-Email-DC143C?style=flat&logo=gmail&logoColor=white" alt="Email">
     </a>
 </div>
+
+<br>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Status-Concluído-%231AFFD5?style=for-the-badge&logoColor=white&logo=github" alt="Status">
+</p>
+
 
 <p align="center">
     ©2024 by Ana Luiza Seidel
